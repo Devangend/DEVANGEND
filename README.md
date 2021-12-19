@@ -41,7 +41,6 @@
 
 <!-- YOUTUBE:START -->
 - [Discord.js-v12-Handler](https://github.com/Devangend/Discord.js-v12-Handler)
-- [Dev-bot-beta ](https://github.com/Devangend/Dev-bot-beta)
 <!-- YOUTUBE:END -->
 
 ➡️ [more repositories...](https://github.com/Devangend?tab=repositories)
