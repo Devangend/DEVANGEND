@@ -54,6 +54,8 @@
 
 </details>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 [website]: http://eprobot.ga
 [course]: http://eprobot.ga
 [twitter]: https://twitter.com/its_kmal
