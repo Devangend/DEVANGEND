@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=eprobot.ga&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://eprobot.ga)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_kmal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=its_kmal)
-[![Discord Bots](https://top.gg/api/widget/servers/823554361397215294.svg?noavatar=true)](https://top.gg/bot/823554361397215294)
+[![Discord Bots](https://top.gg/api/widget/823554361397215294.svg)](https://top.gg/bot/823554361397215294)
 
 
 ## I'm a normal person!!
@@ -15,10 +15,10 @@
 ### Connect with me:
 
 [<img align="left" alt="eprobot.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="devan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="devan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="devan | LinkedIn" width="22px" src="https://mpng.subpng.com/20180414/qgq/kisspng-discord-teamspeak-computer-icons-logo-game-buttorn-5ad1d92bae24b2.4173961715237020597133.jpg" />][linkedin]
+[<img align="left" alt="devan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -59,7 +59,7 @@
 [course]: http://eprobot.ga
 [twitter]: https://twitter.com/its_kmal
 [youtube]: https://
-[instagram]: https://
+[instagram]: https://www.instagram.com/its.kmals
 [linkedin]: https://
 [webdevplaylist]: https://
 [jsplaylist]: https://
