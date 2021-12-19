@@ -11,10 +11,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw , eat and swimming
 
-![Devangend's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devangend&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devangend&theme=Dark)](https://github.com/Devangend/github-readme-stats)
-
 ### Connect with me:
 
 [<img align="left" alt="eprobot.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -41,7 +37,7 @@
 
 ---
 
-### 📺 Latest Repositories Videos
+### 📺 Latest Repositories 
 
 <!-- YOUTUBE:START -->
 - [Discord.js-v12-Handler](https://github.com/Devangend/Discord.js-v12-Handler)
@@ -49,6 +45,12 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more repositories...](https://github.com/Devangend?tab=repositories)
+
+---
+
+![Devangend's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devangend&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devangend&theme=Dark)](https://github.com/Devangend/github-readme-stats)
 
 [website]: http://eprobot.ga
 [course]: http://eprobot.ga
