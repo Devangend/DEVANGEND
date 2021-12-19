@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=eprobot.ga&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://eprobot.ga)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_kmal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=its_kmal)
-[![Discord Bots](https://user-images.githubusercontent.com/80990706/146679121-33886c39-6eb0-46a4-be87-4cb26f0c0f0c.png)](https://top.gg/bot/823554361397215294)
+[![Discord Bots]((https://user-images.githubusercontent.com/80990706/146679329-2cc31e58-fa36-4c83-8efc-9bbc0feaa2ba.png)](https://top.gg/bot/823554361397215294)
 
 
 ## I'm a normal person!!
