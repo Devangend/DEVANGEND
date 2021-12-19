@@ -95,10 +95,10 @@
 [website]: http://eprobot.ga
 [course]: http://eprobot.ga
 [twitter]: https://twitter.com/its_kmal
-[youtube]: 
-[instagram]: 
-[linkedin]: 
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+[youtube]: https://
+[instagram]: https://
+[linkedin]: https://
+[webdevplaylist]: https://
+[jsplaylist]: https://
+[cssplaylist]: https://
+[reactplaylist]: https://
