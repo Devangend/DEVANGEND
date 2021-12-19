@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on Discord Bots
 
 - 🌱 I’m currently learning: 
- \n`JavaScript`
- \n`Python`
- \n`Html`
- \n`Css`
+- `JavaScript`
+- `Python`
+- `Html`
+- `Css`
 
 - 💬 Ask me about Discord Bots (JavaScript)
 - 📫 How to reach me: My Discord Username `DEVAN ✨#1713`
