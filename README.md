@@ -7,7 +7,7 @@
 
 ## I'm a normal person!!
 
-- 🔭 I just launched my first verify bot: [EPRO Bot!][course]!
+- 🔭 I just launched my first verified bot: [EPRO Bot!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw , eat and swimming
