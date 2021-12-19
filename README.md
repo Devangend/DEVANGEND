@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="eprobot.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="devan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="devan | YouTube" width="22px" src="https://cdn.discordapp.com/attachments/853617109560328192/922148356195749888/blakc-twitch-icon-0.png" />][youtube]
 [<img align="left" alt="devan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="devan | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/853617109560328192/922133158978261052/discord-black-icon-1.png" />][linkedin]
 [<img align="left" alt="devan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -56,7 +56,7 @@
 [website]: http://eprobot.ga
 [course]: http://eprobot.ga
 [twitter]: https://twitter.com/its_kmal
-[youtube]: https://
+[youtube]: https://www.twitch.tv/devangend
 [instagram]: https://www.instagram.com/its.kmals
 [linkedin]: https://
 [webdevplaylist]: https://
