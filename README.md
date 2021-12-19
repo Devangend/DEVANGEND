@@ -12,7 +12,9 @@
 - ⚡ Fun fact: I love to draw , eat and swimming
 
 ![Devangend's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devangend&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devangend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devangend)](https://github.com/Devangend/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="eprobot.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
