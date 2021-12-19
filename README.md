@@ -1,6 +1,6 @@
 ### Hi there, I'm Devan - aka [DEVAN ✨#1713][website] 👋 
 
-[![Discord Bots](https://user-images.githubusercontent.com/80990706/146679458-d1475da0-16ec-4107-ae1a-fa12a3b0f64a.png)](https://top.gg/bot/823554361397215294)
+[![Discord Bots](https://cdn.discordapp.com/attachments/853617109560328192/922140561513799690/Untitled.png)](https://top.gg/bot/823554361397215294)
 [![Website](https://img.shields.io/website?label=eprobot.ga&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://eprobot.ga)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_kmal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=its_kmal)
 
