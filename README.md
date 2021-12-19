@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=eprobot.ga&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://eprobot.ga)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_kmal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=its_kmal)
 [![Discord Bots](https://top.gg/api/widget/servers/823554361397215294.svg?noavatar=true)](https://top.gg/bot/823554361397215294)
-[![Twitter Follow](https://img.shields.io/twitter/follow/its_kmal?color=1DA1F2&logo=https://cdn.discordapp.com/attachments/853617109560328192/922129440228646972/BwaFnmwAAAABJRU5ErkJggg.png&style=for-the-badge)](https://top.gg/bot/823554361397215294)
+[![Twitter Follow](https://img.shields.io/twitter/follow/its_kmal?color=1DA1F2&logo=top.gg=for-the-badge)](https://top.gg/bot/823554361397215294)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
