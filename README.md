@@ -17,7 +17,7 @@
 [<img align="left" alt="eprobot.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="devan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="devan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="devan | LinkedIn" width="22px" src="https://mpng.subpng.com/20180414/qgq/kisspng-discord-teamspeak-computer-icons-logo-game-buttorn-5ad1d92bae24b2.4173961715237020597133.jpg" />][linkedin]
+[<img align="left" alt="devan | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/853617109560328192/922133158978261052/discord-black-icon-1.png" />][linkedin]
 [<img align="left" alt="devan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
