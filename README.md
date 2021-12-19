@@ -11,6 +11,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw , eat and swimming
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devangend&show_icons=true&theme=radical)
+
 ### Connect with me:
 
 [<img align="left" alt="eprobot.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -45,16 +47,6 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more repositories...](https://github.com/Devangend?tab=repositories)
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devangend&show_icons=true&theme=radical)
 
 [website]: http://eprobot.ga
 [course]: http://eprobot.ga
