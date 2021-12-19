@@ -9,7 +9,7 @@
 - `Html`
 - `Css`
 
-- 💬 Ask me about Discord Bots (JavaScript)
+- 💬 Ask me about `Discord Bots (JavaScript)`
 - 📫 How to reach me: My Discord Username `DEVAN ✨#1713`
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Cookies
+- 😄 Pronouns: `He/Him`
+- ⚡ Fun fact: `I like Cookies`
