@@ -1,5 +1,5 @@
 ### Hi there, I'm Devan - aka [DEVAN ✨#1713][website] 👋 
-[![Devan Api](https://cdn.discordapp.com/attachments/809578955736219648/960736484191772692/colorful-abstract-wallpaper-design_23-2148467625.jpg)](http://eprobot.tk/api)
+[![Devan Api](https://user-images.githubusercontent.com/80990706/164386426-8340a45f-5488-4a7d-99b6-a38a97d37442.png)](http://eprobot.tk/api)
 
 [![Discord Bots](https://cdn.discordapp.com/attachments/853617109560328192/922140561513799690/Untitled.png)](https://top.gg/bot/823554361397215294)
 [![Website](https://cdn.discordapp.com/attachments/853617109560328192/922147472275542047/Untitled1.png)](http://eprobot.ga)
