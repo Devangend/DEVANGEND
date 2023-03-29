@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="eprobot.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="eprobot.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="devan | YouTube" width="22px" src="https://cdn.discordapp.com/attachments/853617109560328192/922148356195749888/blakc-twitch-icon-0.png" />][youtube]
 [<img align="left" alt="devan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="devan | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/853617109560328192/922133158978261052/discord-black-icon-1.png" />][linkedin]
